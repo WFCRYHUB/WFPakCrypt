@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WFPakCrypt", "WFPakCrypt\WFPakCrypt.vcxproj", "{25EB03F1-3FD1-4B59-B013-25D1E19D8038}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libtomcrypt", "libtomcrypt\libtomcrypt.vcxproj", "{6DE4EBCE-250E-FC62-DE11-826EF3E35F1A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libtommath", "libtommath\libtommath_VS2008.vcxproj", "{42109FEE-B0B9-4FCD-9E56-2863BF8C55D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25EB03F1-3FD1-4B59-B013-25D1E19D8038}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25EB03F1-3FD1-4B59-B013-25D1E19D8038}.Debug|Win32.Build.0 = Debug|Win32
+		{25EB03F1-3FD1-4B59-B013-25D1E19D8038}.Release|Win32.ActiveCfg = Release|Win32
+		{25EB03F1-3FD1-4B59-B013-25D1E19D8038}.Release|Win32.Build.0 = Release|Win32
+		{6DE4EBCE-250E-FC62-DE11-826EF3E35F1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6DE4EBCE-250E-FC62-DE11-826EF3E35F1A}.Debug|Win32.Build.0 = Debug|Win32
+		{6DE4EBCE-250E-FC62-DE11-826EF3E35F1A}.Release|Win32.ActiveCfg = Release|Win32
+		{6DE4EBCE-250E-FC62-DE11-826EF3E35F1A}.Release|Win32.Build.0 = Release|Win32
+		{42109FEE-B0B9-4FCD-9E56-2863BF8C55D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42109FEE-B0B9-4FCD-9E56-2863BF8C55D2}.Debug|Win32.Build.0 = Debug|Win32
+		{42109FEE-B0B9-4FCD-9E56-2863BF8C55D2}.Release|Win32.ActiveCfg = Release|Win32
+		{42109FEE-B0B9-4FCD-9E56-2863BF8C55D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
